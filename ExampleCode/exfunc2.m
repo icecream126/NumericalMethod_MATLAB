@@ -1,2 +1,2 @@
 function resultVal = exfunc2(x)
-%여기 아래에 func2에 대한 식을 작성하시오
+f=exp(x)+sin(x)+3*x^2-4;
